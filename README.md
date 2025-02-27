@@ -25,7 +25,7 @@ Follow the steps below to set up and run the application.
 Clone the examples repository from GitHub:
 
 ```sh
-git clone https://github.com/huggingface/transformers.js-examples.git
+git clone [https://github.com/Thangeswaran04/Desspseek.git]
 ```
 
 ### 2. Navigate to the Project Directory
